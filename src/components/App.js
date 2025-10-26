@@ -15,7 +15,7 @@ const App = () => {
          />
          
          {name && (
-          <h2>Hello {name}</h2>
+          <h2>Hello {name}!</h2>
          )}
     </div>
   )
